@@ -1,0 +1,13 @@
+# secrets and local tooling
+.env
+.env.*
+!.env.example
+secrets.properties
+Secrets.xcconfig
+.DS_Store
+build/
+.gradle/
+DerivedData/
+node_modules/
+.next/
+dist/

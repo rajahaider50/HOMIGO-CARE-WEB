@@ -1,0 +1,3 @@
+import React from 'react'; import {createRoot} from 'react-dom/client'; import './styles.css';
+function App() { return <main className="shell"><header><img src="/icon-192.png"/><span>HomigoCare</span></header><section className="hero"><p className="eyebrow">HOMIGOCARE · PHASE 0</p><h1>{'Care that feels close to home'}</h1><p>Shared platform foundation is ready. Feature modules connect to the authoritative Supabase, Firebase and Cloudinary contracts.</p><button>Continue</button></section></main> }
+createRoot(document.getElementById('root')!).render(<App />);

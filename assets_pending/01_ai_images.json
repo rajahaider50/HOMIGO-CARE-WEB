@@ -1,0 +1,203 @@
+{
+  "batch_id": "01",
+  "instructions_for_founder": "Generate each transparent flat-vector asset with no baked-in text, then place it at the listed destination path.",
+  "global_style": {
+    "art_style": "flat 2D vector illustration, clean line art, minimal shading",
+    "palette": [
+      "#1B6B63",
+      "#0D4A44",
+      "#F5823A",
+      "#FFFFFF"
+    ],
+    "forbidden": [
+      "photorealism",
+      "3D render",
+      "watermarks",
+      "baked-in text",
+      "real human faces/photos",
+      "third-party logos"
+    ]
+  },
+  "images": [
+    {
+      "id": "img_01",
+      "filename": "il_onboarding_homecare.png",
+      "destination_path": "assets_pending/generated/il_onboarding_homecare.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of friendly home-care nurse with elderly patient, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_02",
+      "filename": "il_onboarding_booking.png",
+      "destination_path": "assets_pending/generated/il_onboarding_booking.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of calendar with medical cross and location pin, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_03",
+      "filename": "il_onboarding_passport.png",
+      "destination_path": "assets_pending/generated/il_onboarding_passport.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of digital health passport with shield, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_04",
+      "filename": "il_empty_bookings.png",
+      "destination_path": "assets_pending/generated/il_empty_bookings.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of empty booking clipboard, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_05",
+      "filename": "il_empty_documents.png",
+      "destination_path": "assets_pending/generated/il_empty_documents.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of secure document folder, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_06",
+      "filename": "il_empty_notifications.png",
+      "destination_path": "assets_pending/generated/il_empty_notifications.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of notification bell with small heart, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_07",
+      "filename": "il_empty_reviews.png",
+      "destination_path": "assets_pending/generated/il_empty_reviews.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of review stars and speech bubble, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_08",
+      "filename": "il_empty_wallet.png",
+      "destination_path": "assets_pending/generated/il_empty_wallet.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of wallet with teal medical cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_09",
+      "filename": "il_empty_chat.png",
+      "destination_path": "assets_pending/generated/il_empty_chat.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of chat bubbles with heart, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_10",
+      "filename": "il_empty_professional.png",
+      "destination_path": "assets_pending/generated/il_empty_professional.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of professional badge and stethoscope, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_11",
+      "filename": "il_badge_certified.png",
+      "destination_path": "assets_pending/generated/il_badge_certified.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of certified circular badge, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_12",
+      "filename": "il_badge_excellence.png",
+      "destination_path": "assets_pending/generated/il_badge_excellence.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of excellence badge with subtle star, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_13",
+      "filename": "il_badge_elite.png",
+      "destination_path": "assets_pending/generated/il_badge_elite.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of elite gold badge, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_14",
+      "filename": "il_category_nursing.png",
+      "destination_path": "assets_pending/generated/il_category_nursing.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of stethoscope and nursing cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_15",
+      "filename": "il_category_physiotherapy.png",
+      "destination_path": "assets_pending/generated/il_category_physiotherapy.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of gentle movement figure and leaf, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_16",
+      "filename": "il_category_pharmacy.png",
+      "destination_path": "assets_pending/generated/il_category_pharmacy.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of medicine bottle and cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_17",
+      "filename": "il_category_lab.png",
+      "destination_path": "assets_pending/generated/il_category_lab.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of laboratory flask and pulse, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_18",
+      "filename": "il_admin_verification_empty.png",
+      "destination_path": "assets_pending/generated/il_admin_verification_empty.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of empty verification queue illustration, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_19",
+      "filename": "il_admin_disputes_empty.png",
+      "destination_path": "assets_pending/generated/il_admin_disputes_empty.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of calm dispute resolution illustration, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    },
+    {
+      "id": "img_20",
+      "filename": "il_web_hero.png",
+      "destination_path": "assets_pending/generated/il_web_hero.png",
+      "used_on_screen": "shared foundation / relevant feature screen",
+      "background": "transparent",
+      "size_hint": "2048x2048",
+      "prompt": "Flat vector illustration of warm home healthcare scene, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+    }
+  ]
+}
