@@ -2,7 +2,6 @@
   "projectId": "homigo-care-76e21",
   "appId": "1:682545900180:web:556b2ca1226f8ccfcfa281",
   "databaseURL": "https://homigo-care-76e21-default-rtdb.firebaseio.com",
-  "storageBucket": "homigo-care-76e21.firebasestorage.app",
   "apiKey": "AIzaSyCP3dUminDU_wI1BzfXnwAW20Vk_COkUbc",
   "authDomain": "homigo-care-76e21.firebaseapp.com",
   "messagingSenderId": "682545900180",

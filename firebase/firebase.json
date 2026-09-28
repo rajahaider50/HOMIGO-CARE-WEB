@@ -4,9 +4,6 @@
     "location": "asia-south1",
     "rules": "firestore.rules"
   },
-  "storage": {
-    "rules": "storage.rules"
-  },
   "auth": {
     "providers": {
       "emailPassword": true,

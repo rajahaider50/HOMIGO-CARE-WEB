@@ -216,3 +216,7 @@ Create the account once, the folders and two presets (`homigo_public_assets` uns
 
 ## Repository-local implementation notes
 Follow the supplied blueprint PDF for this repository and keep this file updated after each completed feature.
+
+## Current implementation decision (2026-09-28)
+
+Firebase Storage is not used anywhere in HomigoCare. All user-facing images, videos, PDFs, CNICs, degrees, prescriptions, receipts, and other files must use Cloudinary. Firebase is limited to Authentication, Firestore realtime collections, and Cloud Messaging. This decision supersedes any earlier Firebase Storage mention in the supplied guide.
