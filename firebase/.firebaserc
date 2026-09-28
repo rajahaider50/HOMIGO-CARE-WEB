@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "homigo-care-dev-76e21",
+    "prod": "homigo-care-76e21"
+  }
+}
