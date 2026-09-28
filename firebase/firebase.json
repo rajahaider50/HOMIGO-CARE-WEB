@@ -6,5 +6,15 @@
   },
   "storage": {
     "rules": "storage.rules"
+  },
+  "auth": {
+    "providers": {
+      "emailPassword": true,
+      "anonymous": true,
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "HomigoCare",
+        "supportEmail": "zarghamabbas859@gmail.com"
+      }
+    }
   }
 }
