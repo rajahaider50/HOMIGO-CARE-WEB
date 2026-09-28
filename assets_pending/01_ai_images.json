@@ -1,203 +1,203 @@
 {
   "batch_id": "01",
-  "instructions_for_founder": "Generate each transparent flat-vector asset with no baked-in text, then place it at the listed destination path.",
+  "instructions_for_founder": "These are Web-only assets for the public marketing/CMS site and responsive web app. Do not reuse the Android archive or iOS asset prompts. Keep text areas empty because real copy comes from CMS.",
   "global_style": {
-    "art_style": "flat 2D vector illustration, clean line art, minimal shading",
+    "art_style": "polished responsive website editorial illustration, clean vector forms with restrained texture",
     "palette": [
-      "#1B6B63",
       "#0D4A44",
+      "#1B6B63",
       "#F5823A",
+      "#F7F3EE",
       "#FFFFFF"
     ],
     "forbidden": [
       "photorealism",
-      "3D render",
       "watermarks",
       "baked-in text",
-      "real human faces/photos",
-      "third-party logos"
+      "third-party logos",
+      "generic stock-photo composition"
     ]
   },
   "images": [
     {
       "id": "img_01",
-      "filename": "il_onboarding_homecare.png",
-      "destination_path": "assets_pending/generated/il_onboarding_homecare.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
-      "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of friendly home-care nurse with elderly patient, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "filename": "web_home_hero.png",
+      "destination_path": "public/illustrations/web_home_hero.png",
+      "used_on_screen": "/ Landing Page hero",
+      "background": "off-white",
+      "size_hint": "2400x1350",
+      "prompt": "Original website illustration for HomigoCare: wide home healthcare scene with nurse, patient, and calm home interior; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_02",
-      "filename": "il_onboarding_booking.png",
-      "destination_path": "assets_pending/generated/il_onboarding_booking.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
-      "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of calendar with medical cross and location pin, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "filename": "web_about_mission.png",
+      "destination_path": "public/illustrations/web_about_mission.png",
+      "used_on_screen": "/about Mission/Story",
+      "background": "off-white",
+      "size_hint": "2400x1350",
+      "prompt": "Original website illustration for HomigoCare: editorial care team collaboration scene with whitespace for CMS copy; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_03",
-      "filename": "il_onboarding_passport.png",
-      "destination_path": "assets_pending/generated/il_onboarding_passport.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_about_team_placeholder.png",
+      "destination_path": "public/illustrations/web_about_team_placeholder.png",
+      "used_on_screen": "/about Team section",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of digital health passport with shield, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: abstract professional team grouping with no identifiable faces; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_04",
-      "filename": "il_empty_bookings.png",
-      "destination_path": "assets_pending/generated/il_empty_bookings.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_service_nursing.png",
+      "destination_path": "public/illustrations/web_service_nursing.png",
+      "used_on_screen": "/services Nursing card",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of empty booking clipboard, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: wide nursing service category illustration; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_05",
-      "filename": "il_empty_documents.png",
-      "destination_path": "assets_pending/generated/il_empty_documents.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_service_rehab.png",
+      "destination_path": "public/illustrations/web_service_rehab.png",
+      "used_on_screen": "/services Physiotherapy card",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of secure document folder, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: wide rehabilitation service category illustration; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_06",
-      "filename": "il_empty_notifications.png",
-      "destination_path": "assets_pending/generated/il_empty_notifications.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_service_pharmacy.png",
+      "destination_path": "public/illustrations/web_service_pharmacy.png",
+      "used_on_screen": "/services Pharmacy card",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of notification bell with small heart, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: wide pharmacy service category illustration; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_07",
-      "filename": "il_empty_reviews.png",
-      "destination_path": "assets_pending/generated/il_empty_reviews.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_service_lab.png",
+      "destination_path": "public/illustrations/web_service_lab.png",
+      "used_on_screen": "/services Diagnostics card",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of review stars and speech bubble, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: wide diagnostics service category illustration; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_08",
-      "filename": "il_empty_wallet.png",
-      "destination_path": "assets_pending/generated/il_empty_wallet.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_download_app.png",
+      "destination_path": "public/illustrations/web_download_app.png",
+      "used_on_screen": "/download Get the App",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of wallet with teal medical cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: phone silhouette showing care journey, no UI text or fake screenshots; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_09",
-      "filename": "il_empty_chat.png",
-      "destination_path": "assets_pending/generated/il_empty_chat.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_pricing_care.png",
+      "destination_path": "public/illustrations/web_pricing_care.png",
+      "used_on_screen": "/pricing Pricing Overview",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of chat bubbles with heart, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: balanced care plan visual with abstract tiered cards and no text; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_10",
-      "filename": "il_empty_professional.png",
-      "destination_path": "assets_pending/generated/il_empty_professional.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_faq_support.png",
+      "destination_path": "public/illustrations/web_faq_support.png",
+      "used_on_screen": "/faq and /support",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of professional badge and stethoscope, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: support conversation and help-center visual, calm and accessible; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_11",
-      "filename": "il_badge_certified.png",
-      "destination_path": "assets_pending/generated/il_badge_certified.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_empty_testimonials.png",
+      "destination_path": "public/illustrations/web_empty_testimonials.png",
+      "used_on_screen": "/ Landing testimonials empty state",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of certified circular badge, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: subtle empty testimonial placeholder, no fabricated people or quotes; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_12",
-      "filename": "il_badge_excellence.png",
-      "destination_path": "assets_pending/generated/il_badge_excellence.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_patient_onboarding.png",
+      "destination_path": "public/illustrations/web_patient_onboarding.png",
+      "used_on_screen": "/onboarding/*",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of excellence badge with subtle star, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: web onboarding illustration with form and care journey motif; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_13",
-      "filename": "il_badge_elite.png",
-      "destination_path": "assets_pending/generated/il_badge_elite.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_patient_booking.png",
+      "destination_path": "public/illustrations/web_patient_booking.png",
+      "used_on_screen": "/booking/details",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of elite gold badge, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: web booking flow illustration with calendar and service selection; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_14",
-      "filename": "il_category_nursing.png",
-      "destination_path": "assets_pending/generated/il_category_nursing.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_booking_confirmed.png",
+      "destination_path": "public/illustrations/web_booking_confirmed.png",
+      "used_on_screen": "/booking/confirmed/[id]",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of stethoscope and nursing cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: wide booking confirmation scene with calendar and checkmark; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_15",
-      "filename": "il_category_physiotherapy.png",
-      "destination_path": "assets_pending/generated/il_category_physiotherapy.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_live_tracking.png",
+      "destination_path": "public/illustrations/web_live_tracking.png",
+      "used_on_screen": "/booking/[id]/tracking",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of gentle movement figure and leaf, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: map-safe live care route illustration with location marker; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_16",
-      "filename": "il_category_pharmacy.png",
-      "destination_path": "assets_pending/generated/il_category_pharmacy.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_professional_field.png",
+      "destination_path": "public/illustrations/web_professional_field.png",
+      "used_on_screen": "/pro/onboarding/field",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of medicine bottle and cross, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: professional field selection illustration with healthcare disciplines; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_17",
-      "filename": "il_category_lab.png",
-      "destination_path": "assets_pending/generated/il_category_lab.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_professional_documents.png",
+      "destination_path": "public/illustrations/web_professional_documents.png",
+      "used_on_screen": "/pro/onboarding/documents",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of laboratory flask and pulse, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: document upload illustration with visible file stack and secure upload; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_18",
-      "filename": "il_admin_verification_empty.png",
-      "destination_path": "assets_pending/generated/il_admin_verification_empty.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_professional_pending.png",
+      "destination_path": "public/illustrations/web_professional_pending.png",
+      "used_on_screen": "/pro/onboarding/pending",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of empty verification queue illustration, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: verification waiting illustration with review timeline motif; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_19",
-      "filename": "il_admin_disputes_empty.png",
-      "destination_path": "assets_pending/generated/il_admin_disputes_empty.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
-      "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of calm dispute resolution illustration, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "filename": "web_og_share.png",
+      "destination_path": "public/illustrations/web_og_share.png",
+      "used_on_screen": "Open Graph/social share image",
+      "background": "off-white",
+      "size_hint": "2400x1350",
+      "prompt": "Original website illustration for HomigoCare: brand-level home-care visual with large text-safe negative space, no baked text; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     },
     {
       "id": "img_20",
-      "filename": "il_web_hero.png",
-      "destination_path": "assets_pending/generated/il_web_hero.png",
-      "used_on_screen": "shared foundation / relevant feature screen",
+      "filename": "web_favicon_mark.png",
+      "destination_path": "public/icons-custom/web_favicon_mark.png",
+      "used_on_screen": "favicon and public/icon.png",
       "background": "transparent",
-      "size_hint": "2048x2048",
-      "prompt": "Flat vector illustration of warm home healthcare scene, reassuring healthcare brand mood, teal and orange palette, clean line art, transparent background, no text"
+      "size_hint": "1600x1200",
+      "prompt": "Original website illustration for HomigoCare: simple HomigoCare care-mark symbol, transparent background, scalable at 16px; polished responsive-web art direction, clear focal point, generous whitespace for real CMS content, deep teal #0D4A44, teal #1B6B63, coral #F5823A, warm off-white, clean vector/ editorial hybrid, no invented UI copy, no text baked into the image."
     }
   ]
 }
